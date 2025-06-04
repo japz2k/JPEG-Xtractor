@@ -14,8 +14,8 @@ Installation
 
 Prerequisites
   •	Python 3.6+
-  • Required packages:
-      - pip install pandas pillow openpyxl tk
+  • Required package
+      -- pip install pandas pillow openpyxl tk
       
 Running the Application
 1.	Clone the repository:
